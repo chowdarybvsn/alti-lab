@@ -4,4 +4,6 @@ this is our evening class
 
 git, jenkins are in devops process.
 
-we need to improve daily
+we need to improve daily.
+
+join class on time.
