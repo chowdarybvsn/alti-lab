@@ -7,3 +7,5 @@ git, jenkins are in devops process.
 we need to improve daily.
 
 join class on time.
+
+end of your chapter
